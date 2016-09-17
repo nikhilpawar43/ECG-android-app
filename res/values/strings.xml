@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Easy Commute Guide Online</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Autocomplete_hint">Enter your place.</string>
+    <string name="map_info">Map information</string>
+    
+    <string-array name="cts_facilities">
+		<item>CTS Hinjewadi Phase-1</item>        
+		<item>DLF Quadron Phase-2</item>
+    </string-array>
+
+</resources>
